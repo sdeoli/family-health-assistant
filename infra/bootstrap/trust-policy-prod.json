@@ -12,7 +12,7 @@
           "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
         },
         "StringLike": {
-          "token.actions.githubusercontent.com:sub": "repo:subodeol/family-health-assistant:environment:production"
+          "token.actions.githubusercontent.com:sub": "repo:sdeoli/family-health-assistant:environment:production"
         }
       }
     }
